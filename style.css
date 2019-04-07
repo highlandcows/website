@@ -4,9 +4,11 @@
 	flex-wrap: wrap;
 }
 
-.intro {
-	margin-left: 10px;
-	max-width: 550px;
+@media only screen and (min-width: 992px) {
+	.intro {
+		margin-left: 10px;
+		max-width: 550px;
+	}
 }
 
 .contact {
