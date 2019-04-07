@@ -1,0 +1,13 @@
+.flex-container {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+}
+
+.intro {
+	margin-left: 10px;
+	max-width: 550px;
+}
+
+.contact {
+}
