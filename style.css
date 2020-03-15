@@ -1,3 +1,7 @@
+@import url("https://cdn.jsdelivr.net/gh/kognise/water.css@latest/dist/light.min.css");
+
+@import url("https://cdn.jsdelivr.net/gh/kognise/water.css@latest/dist/dark.min.css") screen and (prefers-color-scheme: dark);
+
 main {
   max-width: 38rem;
   padding: 2rem;
