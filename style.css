@@ -23,3 +23,8 @@ main {
 
 .contact {
 }
+
+.nick-photo {
+    align-self: flex-start;
+    border-radius: 8px;
+}
